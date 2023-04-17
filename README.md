@@ -1,7 +1,12 @@
 # Bender-Element-data
+
+Welcome!
+
 This repository contains the files comprising the data used for the following articles:
 
+Article 1:
 Waves Velocity and Poisson Ratio in Loose Sandy Martian Regolith Under Low Stresses. Part 1: Experimental Investigation
+Article 2:
 Waves Velocity and Poisson Ratio in Loose Sandy Martian Regolith Under Low Stresses. Part 2: Theoretical Analysis
 
 Waveform data is available as csv files organized in separate folders for each of the four samples involved
